@@ -6,7 +6,7 @@ nav_order : 2
 ---
 
 # Students
-{: .no_toc}
+{: .no_toc }
 
 ## Table of contents
-{: .no_toc .text-delta}
+{: .no_toc .text-delta }
