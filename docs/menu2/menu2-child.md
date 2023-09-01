@@ -5,7 +5,7 @@ parent : menu2
 nave_order : 1
 ---
 
-#Professor
+# Professor
 (: .no_toc}
 
 ## Table of contents
