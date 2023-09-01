@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Home, members
 layout: home
 ---
 
