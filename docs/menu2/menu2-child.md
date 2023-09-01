@@ -2,11 +2,11 @@
 layout : default
 title : Professor
 parent : menu2
-nave_order : 1
+nav_order : 1
 ---
 
 # Professor
-(: .no_toc}
+{: .no_toc}
 
 ## Table of contents
 {: .no_toc .text-delta}
