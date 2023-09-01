@@ -1,6 +1,6 @@
 ---
 layout : default
-title : members
+title : Members
 nav_order : 2
 ---
 
