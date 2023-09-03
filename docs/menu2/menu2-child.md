@@ -1,7 +1,7 @@
 ---
 layout : default
 title : Professor
-parent : menu2
+parent : Members
 nav_order : 1
 ---
 
