@@ -5,7 +5,7 @@ parent : Members
 nav_order : 1
 ---
 
-# Child
+# Professor
 {: .no_toc }
 
 ## Table of contents
