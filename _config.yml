@@ -4,8 +4,8 @@ theme: just-the-docs
 
 url: https://sungshincrypto.github.io/
 
-include:
-  - style.css
+sass:
+  style: compressed
 
 aux_links:
   "SungshinCrypto on GitHub":
