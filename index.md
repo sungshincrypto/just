@@ -3,10 +3,8 @@ title: Home
 layout: default
 nav_order: 1
 ---
-# **Joohee** Lee
-jooheelee@sungshin.ac.kr
-
-
+# **Joohee Lee**
+### *jooheelee@sungshin.ac.kr*
 
 # Welcome!
 <div>
