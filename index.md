@@ -5,6 +5,12 @@ nav_order: 1
 ---
 # **Joohee** Lee
 jooheelee@sungshin.ac.kr
+<div style="float: left;">
+    ![사진정보 Photo info](https://github.com/sungshincrypto/sungshincrypto.github.io/assets/143777085/f677ce0b-e2d5-4775-aa49-f8b493e5bcd2)
+</div>
+
+여기는 글쓰기 Writing
+
 ## Welcome!
 <link rel="stylesheet" href="/sungshincrypto.github.io/assets/css/style.css">
 <div class="image-and-text">
