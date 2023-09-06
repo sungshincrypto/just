@@ -4,19 +4,18 @@ layout: default
 nav_order: 1
 ---
 # **Joohee** Lee
-#### jooheelee@sungshin.ac.kr
+jooheelee@sungshin.ac.kr
+## Welcome!
 <link rel="stylesheet" href="/assets/css/style.css">
 <div class="image-and-text">
-  <img src="https://github.com/sungshincrypto/sungshincrypto.github.io/assets/143777085/f677ce0b-e2d5-4775-aa49-f8b493e5bcd2" alt="대체 텍스트" class="left-image">
+  <img src="https://github.com/sungshincrypto/sungshincrypto.github.io/assets/143777085/f677ce0b-e2d5-4775-aa49-f8b493e5bcd2" height="300px" width=auto alt="대체 텍스트" class="left-image">
   <p>이곳에 텍스트를 추가합니다. I'm and Assistant Professor in the Department of Convergence Security Engineering at the Sungshin Women's University.
-I received the Ph.D.degree in Mathematical Sciences at Seoul National University(SNU) under the supervision of Prof.Jung Hee Cheon in 2019,
-and I received B.S.degree in Department of Mathematics Education at Korea University in 2013.
-
-I'm leading the Sungshin-Crypto Lab.
-Our research group studies Lattice-based cryptography, Post-quarntum cryptography, Cryptographic protocols, and Privacy-enhancing techniques.</p>
+    I received the Ph.D.degree in Mathematical Sciences at Seoul National University(SNU) under the supervision of Prof.Jung Hee Cheon in 2019,
+    and I received B.S.degree in Department of Mathematics Education at Korea University in 2013.
+    I'm leading the Sungshin-Crypto Lab. Our research group studies Lattice-based cryptography, Post-quarntum cryptography, Cryptographic protocols, and Privacy-enhancing techniques.</p>
 </div>
 
-## Welcome!
+
 I'm and Assistant Professor in the Department of Convergence Security Engineering at the Sungshin Women's University.
 I received the Ph.D.degree in Mathematical Sciences at Seoul National University(SNU) under the supervision of Prof.Jung Hee Cheon in 2019,
 and I received B.S.degree in Department of Mathematics Education at Korea University in 2013.
