@@ -1,10 +1,10 @@
 ---
 layout : default
-title : menu5
+title : Gallery
 nav_order : 5
 ---
 
-# menu5
+# Gallery
 {: .no_toc }
 
 menu5 test
