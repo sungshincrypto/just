@@ -4,6 +4,10 @@ theme: just-the-docs
 
 url: https://sungshincrypto.github.io/
 
+include:
+  - custom.css
+
 aux_links:
   "SungshinCrypto on GitHub":
     - "https://github.com/sungshincrypto/sungshincrypto.github.io"
+
