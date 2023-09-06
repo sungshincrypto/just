@@ -7,21 +7,16 @@ nav_order: 1
 {: .fs-8}
 # jooheelee@sungshin.ac.kr
 {: .fs-4}
----
+
 # Welcome!
 {: .fs-8}
-
-# I'm and Assistant Professor in the Department of Convergence Security Engineering at the Sungshin Women's University.
-# I received the Ph.D.degree in Mathematical Sciences at Seoul National University(SNU) under the supervision of Prof.Jung Hee Cheon in 2019,
-# and I received B.S.degree in Department of Mathematics Education at Korea University in 2013.
-{: .fs-4}
-
+I'm and Assistant Professor in the Department of Convergence Security Engineering at the Sungshin Women's University.
+I received the Ph.D.degree in Mathematical Sciences at Seoul National University(SNU) under the supervision of Prof.Jung Hee Cheon in 2019,
+and I received B.S.degree in Department of Mathematics Education at Korea University in 2013.
 ----
-# I'm leading the Sungshin-Crypto Lab.
-# Our research group studies Lattice-based cryptography, Post-quarntum cryptography, Cryptographic protocols, and Privacy-enhancing techniques.
-{: .fs-4}
+I'm leading the Sungshin-Crypto Lab.
+Our research group studies Lattice-based cryptography, Post-quarntum cryptography, Cryptographic protocols, and Privacy-enhancing techniques.
 
-----
 # News
 {: .fs-6}
 - Aug.30th : Received a Best Poster Award at IWSEC 2023
