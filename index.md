@@ -7,7 +7,7 @@ nav_order: 1
 jooheelee@sungshin.ac.kr
 ## Welcome!
 <div>
-    <img src="https://github.com/sungshincrypto/sungshincrypto.github.io/assets/143777085/f677ce0b-e2d5-4775-aa49-f8b493e5bcd2" height="20%" width="20%" align="left" style='margin-right': 10px;/>
+    <img src="https://github.com/sungshincrypto/sungshincrypto.github.io/assets/143777085/f677ce0b-e2d5-4775-aa49-f8b493e5bcd2" height="20%" width="20%" align="left"/>
         <p>I'm an Assistant Professor in the Department of Convergence Security Engineering at the Sungshin Women's University. I received the Ph.D.degree in Mathematical Sciences at Seoul National University(SNU) under the supervision of Prof.Jung Hee Cheon in 2019, and I received B.S.degree in Department of Mathematics Education at Korea University in 2013.</p>
     <p>I'm leading the Sungshin-Crypto Lab. Our research group studies Lattice-based cryptography, Post-quarntum cryptography, Cryptographic protocols, and Privacy-enhancing techniques.</p>
 </div>
