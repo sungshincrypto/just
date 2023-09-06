@@ -4,8 +4,7 @@ layout: default
 nav_order: 1
 ---
 # **Joohee Lee**
-### *jooheelee@sungshin.ac.kr*
-
+#### *jooheelee@sungshin.ac.kr*
 # Welcome!
 <div>
     <img src="https://github.com/sungshincrypto/sungshincrypto.github.io/assets/143777085/85fb5360-3518-4651-910a-f7f2f5239a91" height="28%" width="28%" align="left"/>
