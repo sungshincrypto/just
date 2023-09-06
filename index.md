@@ -16,7 +16,7 @@ and I received B.S.degree in Department of Mathematics Education at Korea Univer
 I'm leading the Sungshin-Crypto Lab.
 Our research group studies Lattice-based cryptography, Post-quarntum cryptography, Cryptographic protocols, and Privacy-enhancing techniques.
 
-### News
+## News
 - Aug.30th : Received a Best Poster Award at IWSEC 2023
 - Mar.17th : A paper accepted by ACMCCS 2023
              "AIM:Symunetric Primitive for Shorter Signatures with Stronger Security"
