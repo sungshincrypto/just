@@ -2,3 +2,14 @@
   box-shadow: 5px 5px 5px #888888;
   border-radius : 10px;
 }
+
+.image-and-text{
+  clear: both;
+}
+
+.left-image {
+  float: left;
+  margin-right: 10px;
+  height: 200px;
+  width: auto;
+}
