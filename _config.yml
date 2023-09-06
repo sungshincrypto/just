@@ -3,6 +3,7 @@ description: Welcome to SSWU Crypto LAB!
 theme: just-the-docs
 
 url: https://sungshincrypto.github.io/
+baseurl : /sungshincrypto.github.io
 
 style_css:
 - assets/css/style.css
