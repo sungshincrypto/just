@@ -1,13 +1,11 @@
 ---
 layout : default
-title : Members
+title : Students
 nav_order : 2
-has_children : true
-permalink : /docs/menu2
 ---
 
-# Members
+# Students
 {: .no_toc }
 
-menu2 test
+menu3 test
 {: .fs-6 .fw-300 }
