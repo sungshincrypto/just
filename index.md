@@ -5,11 +5,8 @@ nav_order: 1
 ---
 # **Joohee Lee**
 
-*jooheelee@sungshin.ac.kr*
+jooheelee@sungshin.ac.kr   |   [[CV](Joohee_Lee____Curriculum_Vitae_0908.pdf)] 
 {: .fs-4 .fw-300 }
-
-[PDF 다운로드](Joohee_Lee____Curriculum_Vitae_0908.pdf)
-{: .fs-4 .fw-500 }
 ---
 ## Welcome!
 <div>
