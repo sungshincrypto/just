@@ -7,6 +7,9 @@ nav_order: 1
 
 *jooheelee@sungshin.ac.kr*
 {: .fs-4 .fw-300 }
+
+[PDF 다운로드](Joohee_Lee____Curriculum_Vitae_0908.pdf)
+{: .fs-4 .fw-500 }
 ---
 ## Welcome!
 <div>
