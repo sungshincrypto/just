@@ -8,7 +8,7 @@ nav_order : 3
 {: .no_toc }
 
 Authors are listed in alphabetical order by last name unless it is indicated with diamond (⋄). Corresponding authors are indicated with stars (*).  
-
+{: .fs-4 .fw-300 }
   
 ⋄ Joohee Lee, Jihoon Kwon, Ji Sun Shin*: Efficient Continuous Key Agreement with Reduced
 Bandwidth from a Decomposable KEM. in IEEE Access, 2023.<br>
@@ -19,8 +19,7 @@ Vector Machine with Homomorphic Encryption. in The Web4Good Special Track at The
 Web Conference 2022 (WWW 2022).<br>
 ⋄ Jaeseung Han, Taeho Lee, Jihoon Kwon, Joohee Lee, Il-Ju Kim, Jihoon Cho, Dong-Guk Han,
 and Bo-Yeon Sim*: Single-Trace Attack on NIST Round 3 Candidate Dilithium Using Machine
-Learning-Based Profiling. in IEEE Access, 2021<br>
-{: .fs-4 .fw-300 }
+Learning-Based Profiling. in IEEE Access, 2021<br> {: .fs-4 .fw-300 }
 \- Jihoon Cho, Jincheol Ha, Seongkwang Kim*, Joohee Lee, Jooyoung Lee*, Dukjae Moon, and
 Hyojin Yoon: Transciphering Framework for Approximate Homomorphic Encryption. in the 27th
 Annual International Conference on the Theory and Application of Cryptology and Information
