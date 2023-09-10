@@ -4,7 +4,9 @@ layout: default
 nav_order: 1
 ---
 # **Joohee Lee**
-### *jooheelee@sungshin.ac.kr*
+
+*jooheelee@sungshin.ac.kr*
+{: .fs-4 .fw-300 }
 ---
 ## Welcome!
 <div>
