@@ -17,8 +17,8 @@ nav_order: 1
 ---
 
 ## News
-- Aug.30th: Our lab members received a Best Poster Award at IWSEC 2023
-- Mar.17th: A paper accepted by ACM CCS 2023
+- Aug. 30th: Our lab members received a Best Poster Award at IWSEC 2023
+- Mar. 17th: A paper accepted by ACM CCS 2023
              "AIM: Symmetric Primitive for Shorter Signatures with Stronger Security"
 {: .fs-4 .fw-300 }
 
