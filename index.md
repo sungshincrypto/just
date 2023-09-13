@@ -4,8 +4,8 @@ layout: default
 nav_order: 1
 ---
 # **Joohee Lee**
-*jooheelee@sungshin.ac.kr*     \|   [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf){: .btn .btn-purple .fs-3}  [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf)
-{: .fs-4 .fw-300 }
+*jooheelee@sungshin.ac.kr*     \|   [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf){: .btn .btn-purple .fs-3}  [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf) [CV](Static Badge){: .fs-4 .fw-300 }
+<img src="https://img.shields.io/badge/ClickMe!-512BD4?style=flat-square&logo=CV&logoColor=purple"/>
 ---
 ## Welcome!
 <div>
