@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 # **Joohee Lee**
-jooheelee@sungshin.ac.kr     [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf){: .btn .btn-purple .fs-1}
+jooheelee@sungshin.ac.kr &nbsp;    [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf){: .btn .btn-purple .fs-1}
 {: .fs-5 .fw-300 }
 
 ---
