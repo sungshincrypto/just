@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 # **Joohee Lee**
-jooheelee@sungshin.ac.kr     [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf){: .btn .btn-purple .fs-1}   &nbsp;&nbsp;<a href="Joohee_Lee____Curriculum_Vitae_0908.pdf"><img src="https://img.shields.io/badge/CV-512BD4?style=flat-square&logo=CV&logoColor=purple"/></a>
+jooheelee@sungshin.ac.kr     [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf){: .btn .btn-purple .fs-1}
 {: .fs-5 .fw-300 }
 
 ---
@@ -20,7 +20,7 @@ jooheelee@sungshin.ac.kr     [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf){: .bt
 ## News
 - Aug. 30th: Our lab members received a Best Poster Award at IWSEC 2023  &nbsp;&nbsp;<img src="https://img.shields.io/badge/IWSEC2023-512BD4?style=flat-square&logo=CV&logoColor=purple"/>
 - Mar. 17th: A paper accepted by ACMCCS 2023
-             "AIM: Symmetric Primitive for Shorter Signatures with Stronger Security" &nbsp;&nbsp; <img src="https://img.shields.io/badge/ACMCCS2023-512BD4?style=flat-square&logo=CV&logoColor=purple"/>
+             "AIM: Symmetric Primitive for Shorter Signatures with Stronger Security" &nbsp; <img src="https://img.shields.io/badge/ACMCCS2023-512BD4?style=flat-square&logo=CV&logoColor=purple"/>
 {: .fs-4 .fw-300 }
 
 [^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
