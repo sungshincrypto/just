@@ -8,6 +8,8 @@ baseurl : /sungshincrypto.github.io
 style_css:
 - assets/css/style.css
 
+favicon_ico : "gallery/favicon.ico"
+
 aux_links:
   "SungshinCrypto on GitHub":
     - "https://github.com/sungshincrypto/sungshincrypto.github.io"
