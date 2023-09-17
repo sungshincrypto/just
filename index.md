@@ -4,9 +4,7 @@ layout: default
 nav_order: 1
 ---
 # **Joohee Lee**
-jooheelee@sungshin.ac.kr &nbsp;    [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf){: .btn .btn-purple .fs-1}
-<a href="https://scholar.google.com/citations?user=CsZaTc8AAAAJ&hl=ko">Google Scholar</a> 
-<a href="https://www.linkedin.com/in/joohee-lee-26baa5184/">LinkedIn</a> 
+jooheelee@sungshin.ac.kr &nbsp;    [CV](Joohee_Lee____Curriculum_Vitae_0908.pdf){: .btn .btn-purple .fs-1} &nbsp; <a href="https://scholar.google.com/citations?user=CsZaTc8AAAAJ&hl=ko">Google Scholar</a> &nbsp; <a href="https://www.linkedin.com/in/joohee-lee-26baa5184/">LinkedIn</a> 
 {: .fs-5 .fw-300 }
 
 ---
