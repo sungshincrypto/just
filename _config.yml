@@ -10,6 +10,8 @@ style_css:
 
 favicon_ico : "gallery/favicon.ico"
 
+color_schme: dark
+
 aux_links:
   "SungshinCrypto on GitHub":
     - "https://github.com/sungshincrypto/sungshincrypto.github.io"
